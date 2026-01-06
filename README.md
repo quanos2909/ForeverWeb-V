@@ -1,2 +1,4 @@
-# ForeverWeb-V
+# ForeverWeb V
 More than just a browser.
+Fully recoded ForeverWeb.
+Coming soon.
