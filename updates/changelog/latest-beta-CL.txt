@@ -1,1 +1,4 @@
-
+- New system architecture, ensuring a smoother browsing experience
+- Modular design, bringing developers a seamless integration
+- Added native adblocking feature
+- AI features got significantly upgraded, bringing a better better browsing experience.
