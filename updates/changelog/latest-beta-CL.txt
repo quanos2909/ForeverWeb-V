@@ -1,2 +1,7 @@
-- Fixed crash in some multiple occasions
-- Enhanced security for June 2026
+ForeverWeb Lucid: The most advanced ForeverWeb we have ever built, yet
+- Smaller runtime: Cutted support for iOS 13 and 14, as those devices are upgradable to iOS 15. This reduce the size of the runtime, making the browser runs faster
+- BrowserEngineX is back.: Vcore or Wcore isn't a versatile option for ForeverWeb Lucid release (performance, modularity,...)
+- Modular design: Components are now modules, making the browser less complicated and more versatile
+- Advanced architecture: Integrating adblocker, JS scripts directly into the browser
+- AI subsystem + framework: This makes ForeverWeb AI features run more seamlessly and efficient
+- Completely rewritten: This makes ForeverWeb Lucid the fastest ForeverWeb we've ever built.
